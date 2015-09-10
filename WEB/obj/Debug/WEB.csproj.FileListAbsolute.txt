@@ -1,0 +1,70 @@
+E:\App_Code\微信公众平台\weixin\WEB\bin\WEB.dll
+E:\App_Code\微信公众平台\weixin\WEB\bin\WEB.pdb
+E:\App_Code\微信公众平台\weixin\WEB\bin\DAL.dll
+E:\App_Code\微信公众平台\weixin\WEB\bin\IDAL.dll
+E:\App_Code\微信公众平台\weixin\WEB\bin\DAL.pdb
+E:\App_Code\微信公众平台\weixin\WEB\bin\IDAL.pdb
+E:\App_Code\微信公众平台\weixin\WEB\obj\Debug\ResolveAssemblyReference.cache
+E:\App_Code\微信公众平台\weixin\WEB\obj\Debug\WEB.dll
+E:\App_Code\微信公众平台\weixin\WEB\obj\Debug\WEB.pdb
+E:\App_Code\微信公众平台\weixin\WEB\bin\DataModel.dll
+E:\App_Code\微信公众平台\weixin\WEB\bin\DataModel.pdb
+E:\App_Code\微信公众平台\weixin\WEB\bin\BLL.dll
+E:\App_Code\微信公众平台\weixin\WEB\bin\Common.dll
+E:\App_Code\微信公众平台\weixin\WEB\bin\IBLL.dll
+E:\App_Code\微信公众平台\weixin\WEB\bin\BLL.pdb
+E:\App_Code\微信公众平台\weixin\WEB\bin\Common.pdb
+E:\App_Code\微信公众平台\weixin\WEB\bin\IBLL.pdb
+E:\App_Code\微信公众平台\weixin\WEB\bin\Factory.dll
+E:\App_Code\微信公众平台\weixin\WEB\bin\Factory.pdb
+E:\App_Code\微信公众平台cnblog\weixin\WEB\obj\Debug\ResolveAssemblyReference.cache
+E:\App_Code\微信公众平台cnblog\weixin\WEB\obj\Debug\WEB.pdb
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\WEB.dll
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\WEB.pdb
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\BLL.dll
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\Common.dll
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\DAL.dll
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\DataModel.dll
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\IBLL.dll
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\IDAL.dll
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\BLL.pdb
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\Common.pdb
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\DAL.pdb
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\IBLL.pdb
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\IDAL.pdb
+E:\App_Code\微信公众平台cnblog\weixin\WEB\bin\DataModel.pdb
+E:\App_Code\微信公众平台cnblog\weixin\WEB\obj\Debug\WEB.dll
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\WEB.dll
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\WEB.pdb
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\BLL.dll
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\Common.dll
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\DAL.dll
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\DataModel.dll
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\IBLL.dll
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\IDAL.dll
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\BLL.pdb
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\Common.pdb
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\DAL.pdb
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\IBLL.pdb
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\IDAL.pdb
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\bin\DataModel.pdb
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\obj\Debug\WEB.dll
+C:\Other\F\项目\代码\微信平台博客园demo\WEB\obj\Debug\WEB.pdb
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\WEB.dll
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\WEB.pdb
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\BLL.dll
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\Common.dll
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\DAL.dll
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\DataModel.dll
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\IBLL.dll
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\IDAL.dll
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\BLL.pdb
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\Common.pdb
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\DAL.pdb
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\IBLL.pdb
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\IDAL.pdb
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\bin\DataModel.pdb
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\obj\Debug\WEB.dll
+C:\Documents and Settings\Administrator.PUWORLD-CESHI\桌面\微信平台博客园demo\WEB\obj\Debug\WEB.pdb
